@@ -1,4 +1,5 @@
 
+
 # Hi, I'm Aarya Gore! 👋
 
 🎓 Final-year Information Technology Engineering student at Zeal College of Engineering and Research, Pune.
@@ -31,11 +32,12 @@ A full-stack college grievance platform featuring role-based dashboards, complai
 
 🔗 [Live Demo](https://zcoer-intelligent-grievance-portal.vercel.app/) | [Source Code](https://github.com/aaryagore/zcoer-intelligent-grievance-portal)
 
-### 2. AI-Powered Campus Assistant
+### 2. Moodify — Mood-Based Music Recommendation System
 
-A RAG-based assistant designed to answer student queries using campus-related information.
+A machine learning-based music recommendation system that suggests music according to the user's mood, including Happy, Sad, Energetic, Calm, and Neutral. Uses K-Means clustering for mood grouping and KNN for genre classification, with recommendations linked to Spotify.
 
-**Tech Stack:** Python, FastAPI, LangChain, ChromaDB, Gemini API
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn
+
 
 ## 📜 Certifications
 
